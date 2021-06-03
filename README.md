@@ -65,11 +65,10 @@
 
 #### git checkout feature1 ==> moved to feature1 branch
 
-### To merge the changes of branch we switch to the master branch first where we want to merge the changes then we write
-#### git merge feature1
-
 #### git checkout -b Mybranch ==> This will create and switch you to new created branch in one go
 
+### To merge the changes of branch we switch to the master branch first where we want to merge the changes then we write
+#### git merge feature1
 
 ### Adding the local repo to github  
 
