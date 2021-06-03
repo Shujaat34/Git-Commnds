@@ -63,12 +63,12 @@
 
 #### git branch feature1 ==> create a branch with named features
 
-#### git branch feature1 ==> moved to feature1 branch
+#### git checkout feature1 ==> moved to feature1 branch
 
 ### To merge the changes of branch we switch to the master branch first where we want to merge the changes then we write
 #### git merge feature1
 
-#### git checkout -b Mybranch ==> This will create and swich you to new created branch in one go
+#### git checkout -b Mybranch ==> This will create and switch you to new created branch in one go
 
 
 ### Adding the local repo to github  
@@ -88,12 +88,6 @@
 
 #### git pull -u origin master (pull the code and select the master branch now whenever we say git pull by default master branch is selected)
 #### git pull -> No need to write branch now
-
-
-
-
-
-
 
 
 
