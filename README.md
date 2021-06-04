@@ -67,6 +67,8 @@
 
 #### git checkout -b Mybranch ==> This will create and switch you to new created branch in one go
 
+#### remove a branch locally ==> git branch -d feature1
+
 ### To merge the changes of branch we switch to the master branch first where we want to merge the changes then we write
 #### git merge feature1
 
