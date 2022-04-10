@@ -52,7 +52,7 @@
 #### it is not a professional approach to do things)
 
 #### git rm --cached filename ==> (If mistakenly we staged and commited a file now we want to remove it from git repo but we want it on 
-#### out hard drive then we use this)
+#### our hard drive then we use this)
 
 #### git rm filename ==>(This will remove the file evern from repo and harddrive)
 
