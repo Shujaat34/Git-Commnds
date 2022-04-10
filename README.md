@@ -32,10 +32,10 @@
 
 #### touch about.html ==> This will create a html file
 
-#### git add -A ==> this will add all the files to staging portion
+#### git add -A ==> add all the files to staging area.
 
-#### git checkout contact.html ==> this will recover upto the last commit
-#### git checkout -f ==> this will recover all the files upto last commit
+#### git checkout contact.html ==> undo all the changes of file contact.html upto the last commit
+#### git checkout -f ==> undo all the changes of all the files upto last commit
 
 
 #### git log ==> this will show you how many commits you have done so far
