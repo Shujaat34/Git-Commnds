@@ -17,6 +17,8 @@
 
 #### git status ==> to check the status of the git repo
 
+#### git status -s ==> to check the summary status of the git repo
+
 ### if it shows untracked files means the file is not staged on the git repo. means git is not taking care of our file
 ### so to put our files into git we write
 
